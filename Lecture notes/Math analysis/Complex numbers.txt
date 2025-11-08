@@ -1,0 +1,9 @@
+Complex numbers
+
+
+Z = a+bi 
+a,b deystvitelniye chisla
+i = mniimaya edinitsa
+
+
+a +bi - edinoye chislo
