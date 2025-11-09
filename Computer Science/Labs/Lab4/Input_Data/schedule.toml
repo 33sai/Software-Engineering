@@ -1,0 +1,62 @@
+# week type
+weekType = "Чётная"
+
+[[days]]
+name = "Tuesday"
+
+[[days.lessons]]
+type = "Практика"
+subject = "Алгебра и алгоритмы"
+teacher = "Рыбкин Никита Геннадьевич"
+room = "2316"
+location = "Кронверкский пр., д.49, лит.А"
+time = "08:10-09:40"
+format = "Очно"
+
+[[days.lessons]]
+type = "Практика"
+subject = "Математический анализ"
+teacher = "Романова Екатерина Владимировна"
+room = "2330"
+location = "Кронверкский пр., д.49, лит.А"
+time = "09:50-11:20"
+format = "Очно"
+
+[[days.lessons]]
+type = "Лекция"
+subject = "Математический анализ"
+teacher = "Романова Екатерина Владимировна"
+room = "1405"
+location = "Кронверкский пр., д.49, лит.А"
+time = "11:30-13:00"
+format = "Очно"
+
+[[days.lessons]]
+type = "Лекция"
+subject = "Алгебра и алгоритмы"
+teacher = "Попов Антон Игоревич"
+room = "1405"
+location = "Кронверкский пр., д.49, лит.А"
+time = "13:30-15:00"
+format = "Очно"
+
+[[days]]
+name = "Thursday"
+
+[[days.lessons]]
+type = "Практика"
+subject = "Социальная история России"
+teacher = "Кудина Юлия Игоревна"
+room = "1410"
+location = "Кронверкский пр., д.49, лит.А"
+time = "11:30-13:00"
+format = "Очно"
+
+[[days.lessons]]
+type = "Лекция"
+subject = "Социальная история России"
+teacher = "Сосницкий Дмитрий Александрович"
+room = "Alfa Space (2304)"
+location = "Кронверкский пр., д.49, лит.А"
+time = "13:30-15:00"
+format = "Очно"
