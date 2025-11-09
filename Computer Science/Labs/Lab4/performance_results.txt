@@ -1,0 +1,13 @@
+SPEED TEST RESULTS (100 runs):
+
+Total time: 536.48 milliseconds
+Average per run: 5.36 milliseconds
+
+WHAT THIS MEANS:
+- Our code is pretty fast!
+- Each run takes about the same time
+- Reading/writing files takes most of the time
+- The actual data processing is quick
+
+The speed test shows our manual parsing works well
+and doesn't get slower over multiple runs.

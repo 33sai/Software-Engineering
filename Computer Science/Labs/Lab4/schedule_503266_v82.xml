@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule variant="82" isu="503266" week="четная">
+  <day name="tuesday">
+    <event>
+      <type>Практика</type>
+      <subject>Алгебра и алгоритмы</subject>
+      <teacher>Рыбкин Никита Геннадьевич</teacher>
+      <room>2316</room>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <start>08:10</start>
+      <end>09:40</end>
+      <mode></mode>
+    </event>
+    <event>
+      <type>Практика</type>
+      <subject>Математический анализ</subject>
+      <teacher>Романова Екатерина Владимировна</teacher>
+      <room>2330</room>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <start>09:50</start>
+      <end>11:20</end>
+      <mode></mode>
+    </event>
+    <event>
+      <type>Лекция</type>
+      <subject>Математический анализ</subject>
+      <teacher>Романова Екатерина Владимировна</teacher>
+      <room>1405</room>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <start>11:30</start>
+      <end>13:00</end>
+      <mode></mode>
+    </event>
+    <event>
+      <type>Лекция</type>
+      <subject>Алгебра и алгоритмы</subject>
+      <teacher>Попов Антон Игоревич</teacher>
+      <room>1405</room>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <start>13:30</start>
+      <end>15:00</end>
+      <mode></mode>
+    </event>
+  </day>
+  <day name="thursday">
+    <event>
+      <type>Практика</type>
+      <subject>Социальная история России</subject>
+      <teacher>Кудина Юлия Игоревна</teacher>
+      <room>1410</room>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <start>11:30</start>
+      <end>13:00</end>
+      <mode></mode>
+    </event>
+    <event>
+      <type>Лекция</type>
+      <subject>Социальная история России</subject>
+      <teacher>Сосницкий Дмитрий Александрович</teacher>
+      <room>Alfa Space (2304)</room>
+      <address>Кронверкский пр., д.49, лит.А</address>
+      <start>13:30</start>
+      <end>15:00</end>
+      <mode></mode>
+    </event>
+  </day>
+</schedule>
