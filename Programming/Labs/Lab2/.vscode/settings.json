@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "build", 
+    "java.project.referencedLibraries": [
+        "lib/Pokemon.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries.include": [
+        "lib/**/*.jar"
+    ]
+}
