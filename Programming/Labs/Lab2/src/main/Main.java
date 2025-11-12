@@ -13,14 +13,14 @@ public class Main {
         Battle battle = new Battle();
 
         // Team 1: Water Types and Normal Type
-        battle.addAlly(new Corphish("Corphish", 1));
-        battle.addAlly(new Crawdaunt("Crawdaunt", 1));
-        battle.addAlly(new Stantler("Stantler", 1));
+        battle.addAlly(new Stantler("", 1));
+        battle.addAlly(new Corphish("", 1));
+        battle.addAlly(new Crawdaunt("", 1));
 
         // Team 2: Normal Types
-        battle.addFoe(new Happiny("Happiny", 1));
-        battle.addFoe(new Chansey("Chansey", 1));
-        battle.addFoe(new Blissey("Blissey", 1));
+        battle.addFoe(new Happiny("", 1));
+        battle.addFoe(new Chansey("", 1));
+        battle.addFoe(new Blissey("", 1));
 
         battle.go();
     }
